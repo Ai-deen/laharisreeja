@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/laharisreeja/static/css/main.cf890fdb.css",
+    "main.js": "/laharisreeja/static/js/main.3b65f2a5.js",
+    "index.html": "/laharisreeja/index.html",
+    "main.cf890fdb.css.map": "/laharisreeja/static/css/main.cf890fdb.css.map",
+    "main.3b65f2a5.js.map": "/laharisreeja/static/js/main.3b65f2a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.3b65f2a5.js"
+  ]
+}
